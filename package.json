@@ -1,0 +1,26 @@
+{
+  "name": "startupkit",
+  "version": "0.0.0",
+  "description": "the startup portal connecting people and workflows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turingou/startupkit.git"
+  },
+  "keywords": [
+    "workflow",
+    "startup"
+  ],
+  "author": "turing <o.u.turing@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/startupkit/issues"
+  },
+  "dependencies": {
+    "startupkit-auth": "*",
+    "startupkit-mail": "*"
+  }
+}
